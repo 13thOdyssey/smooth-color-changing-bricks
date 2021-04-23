@@ -3,7 +3,7 @@
 local tweenService = game:GetService("TweenService")
 
 script.parent.Material = ("Neon") --you can replace Neon with whatever Roblox brick material there is. for example, if you want it as Smooth Plastic, you will replace Neon with SmoothPlastic.
-i suggest that you keep it as Neon for the best result, as neon is a pretty cool material. however, you may change it to whatever you feel
+-- i suggest that you keep it as Neon for the best result
 
 -- You don't need to set it to neon each time, only once
 
